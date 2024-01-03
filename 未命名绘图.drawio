@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T07:15:27.810Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="c9yHYb5X8zOeTXcBwlgt" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T07:16:15.334Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g0UFOv4e-kpYNDGSRzdI" version="22.1.16" type="github">
   <diagram name="第 1 页" id="wvds4Noi8qXVrxd7TBgN">
     <mxGraphModel dx="1144" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,7 +431,7 @@
           <mxGeometry x="600" y="187" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1dMKH1lv7zG28irYOyC-77" value="&amp;nbsp;阻塞时IMU数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="226" width="110" height="30" as="geometry" />
+          <mxGeometry x="594" y="226" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1dMKH1lv7zG28irYOyC-78" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
